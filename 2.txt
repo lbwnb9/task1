@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 努力就会能达成所愿，对的！
 xxx
+=======
+努力就会能达成所愿，我同意。
+>>>>>>> Stashed changes
